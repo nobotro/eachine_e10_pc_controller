@@ -1,5 +1,6 @@
 # drone_pc_remote
-This project is about how to control jjrc h36 and eachine e010 drone using pc and esp32 with micropython
+This project is about how to control jjrc h36 and eachine e010 drone using pc and esp32 with micropython.
+This drones uses MJX protocol
 
 # Instruction
 
