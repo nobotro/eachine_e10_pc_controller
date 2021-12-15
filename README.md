@@ -14,7 +14,7 @@ Used hardware :  esp32 dev board ,nrf24l01 wireless module , eachine e010 drone 
 - Turn on bluethoot gamepad and run remote.py
 
 
-You can modify key bindings adn values in remote.py
+You can modify key bindings and values in remote.py
 
 
 Used resources:
